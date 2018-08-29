@@ -1,7 +1,7 @@
 # vue-xlsx-table
 
 > vue-xlsx-table-components
-> 无需上传，查看xlsx或xls表格的组件，基于xlsx.js，在[vue-xlsx-table](https://github.com/GeoffZhu/vue-xlsx-table)基础上修改
+> 无需上传，查看xlsx或xls表格的组件，基于xlsx.js
 # Install
 ```
 npm install --save vue-xlsx-table-components
